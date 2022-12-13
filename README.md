@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [digibee.com](digibee.com)
 
-- 🌱 I’m currently learning **Tailwind, Micro front-ends, Solidity, Blockchain.**
+- 🌱 I’m currently learning **Tailwind, Micro front-ends, React, Nodejs.**
 
 - 👯 I’m looking to collaborate on **projects that impact people's lives**
 
