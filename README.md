@@ -3,7 +3,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on [pagar.me](pagar.me)
+- 🔭 I’m currently working on [digibee.com](digibee.com)
 
 - 🌱 I’m currently learning **Tailwind, Micro front-ends, Solidity, Blockchain.**
 
